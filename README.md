@@ -17,10 +17,11 @@ https://data.worldbank.org/indicator/SP.POP.TOTL
 
 # Files Used
 Global_annual_mean_temp.csv - Temperature  
-ohc_levitus_climdsh_seasonal.csv - Ocean Temperture
-co2_mm_mlo.csv - Carbon Dioxide
+ohc_levitus_climdsh_seasonal.csv - Ocean Temperture  
+co2_mm_mlo.csv - Carbon Dioxide  
 Global_monthly_mean_ch4.csv - Methane  
 artic_ice_extent.csv - Artic Ice  
 Antartica_mass.csv - Antarctica Mass  
 Global_sea_levels_rise.csv - Sea Levels  
 Global_annual_population.csv - Population  
+earth-s-climate-dashboard.ipynb - Python Notebook
