@@ -24,4 +24,4 @@ arctic_ice_extent.csv - Arctic Ice
 Antartica_mass.csv - Antarctica Mass  
 Global_sea_levels_rise.csv - Sea Levels  
 Global_annual_population.csv - Population  
-earth-s-climate-dashboard.ipynb - Python Notebook
+earth-s-climate-dashboard.ipynb - Kaggle Python Notebook
